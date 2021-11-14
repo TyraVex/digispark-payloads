@@ -1,0 +1,2 @@
+v0.1 - 14/11/2021 - Added miner-installer script and rickroll script
+v0.2 - 14/11/2021 - Added commands for removing files that were created by the scripts + bug fix 
