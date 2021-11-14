@@ -11,3 +11,6 @@ void setup() {
 
 void loop() {
 }
+
+// removal command :
+// powershell -command "rm \"$env:AppData\Microsoft\Windows\Start Menu\Programs\Startup\rl.url\""
