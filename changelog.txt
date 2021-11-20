@@ -1,2 +1,3 @@
 v0.1 - 14/11/2021 - Created repo + readme.md + added miner-installer script and rickroll script
 v0.2 - 14/11/2021 - Added commands for removing files that were created by the scripts + bug fix + added changelog.txt
+v0.3 - 20/11/2021 - Edited readme.md + cleaned code and fixed typo
