@@ -1,4 +1,7 @@
 # Digispark-payloads
+
+## FOR EDUCATIONNAL PURPOSES ONLY
+
 Code for digispark usbs
 These payloads consist of running a hidden powershell instance executing commands to downloads scripts and save them into the user startup folder
 
